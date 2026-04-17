@@ -1,0 +1,13 @@
+{
+  "name": "self-healing-agent",
+  "version": "1.0.0",
+  "description": "EvoMap GEP Self-Repair engine for AI agents. 12 built-in fix patterns, auto-diagnosis, pattern learning.",
+  "main": "self_healing_engine.js",
+  "scripts": {
+    "test": "node self_healing_engine.js test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
